@@ -54,9 +54,15 @@
       "revision": "android-6.0"
     },
     {
-      "remote": "github",
-      "repository": "omnirom/android_external_connectivity",
+      "remote": "aospa",
+      "repository": "android_external_connectivity",
       "target_path": "external/connectivity",
-      "revision": "android-6.0"
+      "revision": "marshmallow-caf"
+    },
+    {
+      "remote":       "aospa",
+      "repository":   "android_frameworks_av",
+      "target_path":  "frameworks/av",
+      "revision":     "marshmallow-caf"
     }
 ]
