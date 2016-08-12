@@ -1,13 +1,13 @@
 [
     {
         "remote":       "github",
-        "repository":   "MyczkowskiAdam/android_device_lge_g4-common"
+        "repository":   "MyczkowskiAdam/android_device_lge_g4-common",
         "target_path":  "device/lge/g4-common",
         "revision":     "android-6.0"
     },
     {
         "remote":       "github",
-        "repository":   "MyczkowskiAdam/android_device_lge_h815"
+        "repository":   "MyczkowskiAdam/android_device_lge_h815",
         "target_path":  "device/lge/h815",
         "revision":     "android-6.0"
     },
