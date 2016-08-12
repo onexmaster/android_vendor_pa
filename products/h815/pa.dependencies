@@ -1,0 +1,62 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_kernel_lge_msm8992",
+        "target_path":  "kernel/lge/msm8992",
+        "revision":     "cm-13.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "MyczkowskiAdam/proprietary_vendor_lge",
+        "target_path":  "vendor/lge",
+        "revision":     "master"
+    },
+    {
+        "remote":       "caf",
+        "repository":   "platform/external/libnfnetlink",
+        "target_path":  "external/libnfnetlink",
+        "revision":     "LA.HB.1.3.1"
+    },
+    {
+        "remote":       "caf",
+        "repository":   "platform/external/libnetfilter_conntrack",
+        "target_path":  "external/libnetfilter_conntrack",
+        "revision":     "LA.HB.1.3.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_hardware_sony_thermanager",
+        "target_path":  "hardware/sony/thermanager",
+        "revision":     "cm-13.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_hardware_sony_timekeep",
+        "target_path":  "hardware/sony/timekeep",
+        "revision":     "cm-13.0"
+    },
+    {
+      "remote": "github",
+      "repository": "omnirom/android_hardware_qcom_display-caf-msm8992",
+      "target_path": "hardware/qcom/display-caf-msm8992",
+      "revision": "android-6.0"
+    },
+    {
+      "remote": "github",
+      "repository": "omnirom/android_hardware_qcom_media-caf-msm8992",
+      "target_path": "hardware/qcom/media-caf-msm8992",
+      "revision": "android-6.0"
+    },
+    {
+      "remote": "github",
+      "repository": "omnirom/android_hardware_qcom_audio-caf-msm8992",
+      "target_path": "hardware/qcom/audio-caf-msm8992",
+      "revision": "android-6.0"
+    },
+    {
+      "remote": "github",
+      "repository": "omnirom/android_external_connectivity",
+      "target_path": "external/connectivity",
+      "revision": "android-6.0"
+    }
+]
