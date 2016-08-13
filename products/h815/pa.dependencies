@@ -13,9 +13,9 @@
     },
     {
         "remote":       "github",
-        "repository":   "omnirom/android_kernel_lge_msm8992",
+        "repository":   "CyanogenMod/android_kernel_lge_msm8992",
         "target_path":  "kernel/lge/msm8992",
-        "revision":     "android-6.0"
+        "revision":     "cm-13.0"
     },
     {
         "remote":       "github",
