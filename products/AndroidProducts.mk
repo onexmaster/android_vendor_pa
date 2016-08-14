@@ -28,6 +28,9 @@ endif
 ifeq (pa_robin,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/robin/pa_robin.mk
 endif
+ifeq (pa_m7,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/m7/pa_m7mk
+endif
 
 # Samsung Exynos
 ifeq (pa_gts210ltexx,$(TARGET_PRODUCT))
