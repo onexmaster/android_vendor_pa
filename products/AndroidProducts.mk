@@ -29,7 +29,7 @@ ifeq (pa_robin,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/robin/pa_robin.mk
 endif
 ifeq (pa_m7,$(TARGET_PRODUCT))
-    PRODUCT_MAKEFILES += $(LOCAL_DIR)/m7/pa_m7mk
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/m7/pa_m7.mk
 endif
 
 # Samsung Exynos
@@ -58,5 +58,8 @@ ifeq (pa_ls990,$(TARGET_PRODUCT))
 endif
 ifeq (pa_vs985,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/vs985/pa_vs985.mk
+endif
+ifeq (pa_h815,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/h815/pa_h815.mk
 endif
 
