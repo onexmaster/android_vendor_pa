@@ -29,7 +29,7 @@ ifeq (pa_robin,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/robin/pa_robin.mk
 endif
 ifeq (pa_m7,$(TARGET_PRODUCT))
-    PRODUCT_MAKEFILES += $(LOCAL_DIR)/m7/pa_m7mk
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/m7/pa_m7.mk
 endif
 
 # Samsung Exynos
