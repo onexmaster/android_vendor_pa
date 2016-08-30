@@ -6,14 +6,56 @@
     "revision":    "mm6.0"
 
     "remote":      "github",
-    "repository":  "kernel_htc_msm8960",
+    "repository":  "onexmaster/kernel_htc_msm8960",
     "target_path": "kernel/htc/msm8960",
     "revision":    "mm6.0"
-
-
+   },
+   {
+    "remote":      "github",
+    "repository":  "onexmaster/android_device_htc_m7",
+    "target_path": "device/htc/m7",
+    "revision":    "mm6.0"
+   },
+   {
      "remote":      "github",
      "repository":  "onexmaster/device_htc_m7-common",
      "target_path": "device/htc/m7-common",
      "revision":    "mm6.0"
+  },
+  {
+      "remote":       "github",
+      "repository":   "onexmaster/android_vendor_htc",
+      "target_path":  "vendor/htc",
+      "revision":     "mm6.0"
+  },
+  {
+      "remote":       "aospa",
+      "repository":   "android_hardware_qcom_display",
+      "target_path":  "hardware/qcom/display",
+      "revision":     "marshmallow-caf-8794"
+  },
+  {
+      "remote":       "caf",
+      "repository":   "platform/hardware/qcom/media",
+      "target_path":  "hardware/qcom/media",
+      "revision":     "LA.BF.1.1.3_rb1.13"
+  },
+  {
+      "remote":       "aospa",
+      "repository":   "android_hardware_qcom_audio",
+      "target_path":  "hardware/qcom/audio",
+      "revision":     "marshmallow-caf-8794"
+  },
+  {
+      "remote":       "aospa",
+      "repository":   "android_external_connectivity",
+      "target_path":  "external/connectivity",
+      "revision":     "marshmallow-caf"
+  },
+  {
+      "remote":       "aospa",
+      "repository":   "android_frameworks_av",
+      "target_path":  "frameworks/av",
+      "revision":     "marshmallow-caf-8994"
   }
 ]
