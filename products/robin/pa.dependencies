@@ -1,6 +1,6 @@
 [
     {
-        "remote":       "aospa",
+        "remote":       "private",
         "repository":   "android_device_nextbit_robin",
         "target_path":  "device/nextbit/robin",
         "revision":     "marshmallow-caf"
@@ -12,7 +12,7 @@
         "revision":     "marshmallow-caf"
     },
     {
-        "remote":       "aospa",
+        "remote":       "blobs",
         "repository":   "proprietary_vendor_nextbit",
         "target_path":  "vendor/nextbit",
         "revision":     "marshmallow-caf"
